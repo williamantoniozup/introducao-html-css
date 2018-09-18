@@ -1,0 +1,21 @@
+<aside> = conteúdo extra complementar
+
+id usa em elemento que tenho certeza que será o unico que eu estilizará
+
+classes = flexibilidade, sempre que possível use CLASSES no seu css;
+O critério de desempate é qual das classes aparece por ultimo no arquivo
+CSS.
+
+Não colocar texto maisculo direto no HTML, resolvemos isso com CSS
+
+Display-inline não pega height e width
+text-indent - joga o texto pra longe do elemento, e a imagem continua sendo
+clicavel. Técnica image replacement.
+
+Propriedade FLOAT, permite tirar um elemento do fluxo para que ele flutue
+pelo conteúdo. USe CLEAR pra empurrar pra baixo as demais divs. Clearfix, 
+uso de clear para trabalhar com float.
+
+Proprieade Position
+Relative - relativo a posição original, mantem o fluxo da página.
+Absolute - relativo a janela do meu navegador
